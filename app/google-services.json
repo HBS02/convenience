@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658250881246",
+    "firebase_url": "https://convenience-2ce09.firebaseio.com",
+    "project_id": "convenience-2ce09",
+    "storage_bucket": "convenience-2ce09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658250881246:android:524071159494fb6dc28a4f",
+        "android_client_info": {
+          "package_name": "com.example.shin.convenience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658250881246-nurdbacc99fs3hospf06gii6o6rofjt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shin.convenience",
+            "certificate_hash": "8f9fbf18425e470b2b6e7659ccec20126367c378"
+          }
+        },
+        {
+          "client_id": "658250881246-4psukumv9jir5r2gv1j6pgntp4g8or20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXHFKQhdXzU8L_cvnJt2dOP0Z7-SRRIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658250881246-4psukumv9jir5r2gv1j6pgntp4g8or20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
